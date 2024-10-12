@@ -1,4 +1,4 @@
-Predicting house prices using Linear Regression and
+Predicting house prices using Linear Regression and Random Forest Regression
 
 CONTENT:
 1. Data Cleaning
@@ -7,19 +7,4 @@ CONTENT:
 4. Data Preprocessing
 5. Feature Engineering
 6. Linear Regression
-
-
-
-
-
-Exploratory Visualization
-Data Cleaning
-Feature Engineering
-3.1 Value Mapping
-3.2 Pipeline
-3.3 Feature Selection
-3.4 PCA
-Modeling & Evaluation
-Ensemble Methods
-5.1 Weight Average
-5.2 Stacking
+7. Random Forest Regression
