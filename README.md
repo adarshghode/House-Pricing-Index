@@ -1,8 +1,8 @@
 Predicting house prices using Linear Regression and
 
 CONTENT:
-1. Data Cleanin
-2. 
+1. Data Cleaning
+2. Data Splitting
 
 
 
