@@ -5,6 +5,7 @@ CONTENT:
 2. Data Splitting
 3. Exploratory Visualization
 4. Data Preprocessing
+5. Feature Engineering
 
 
 
