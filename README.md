@@ -1,6 +1,13 @@
 Predicting house prices using Linear Regression and
 
 CONTENT:
+1. Data Cleanin
+2. 
+
+
+
+
+
 Exploratory Visualization
 Data Cleaning
 Feature Engineering
