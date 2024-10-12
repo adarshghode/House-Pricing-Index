@@ -6,6 +6,7 @@ CONTENT:
 3. Exploratory Visualization
 4. Data Preprocessing
 5. Feature Engineering
+6. Linear Regression
 
 
 
